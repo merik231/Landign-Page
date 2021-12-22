@@ -49,11 +49,13 @@ body {
     justify-content: space-around;
 }
 
+
 .conteudo-principal-escrito {
     display: flex;
     flex-direction: column;
     gap: 32px;
 }
+
 .conteudo-principal-escrito-titulo {
     font-family: 'Righteous', cursive;
     font-weight: 400;
